@@ -21,6 +21,6 @@
       
       -image_ids : 儲存影像標號
     
-      -index : 儲存index
+      -index : 儲存每張圖像特徵向量index起始於結束位置
       
       -features : 圖像萃取出來的特徵向量
